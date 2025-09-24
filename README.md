@@ -1,4 +1,4 @@
-# gin-study
+# gin-template
 
 一个基于 Gin 框架和 GORM 的分层架构示例项目，旨在为初学者提供清晰的后端开发参考，展示如何规范地实现 CRUD、分页查询、批量操作等常见业务场景。目前还在完善中，后续会添加更多的业务示例和功能。
 
@@ -22,7 +22,7 @@
 ## 项目结构
 
 ```
-gin-study/
+gin-template/
 ├── cmd/
 │   └── main.go               # 程序入口
 ├── config.yaml               # 配置文件
@@ -55,8 +55,8 @@ gin-study/
 1. 克隆仓库
 
 ```bash
-git clone https://github.com/your-username/gin-study.git
-cd gin-study
+git clone https://github.com/WJH010/gin-template.git
+cd gin-template
 ```
 
 2. 配置数据库
